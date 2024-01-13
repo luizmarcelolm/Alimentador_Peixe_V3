@@ -17,7 +17,7 @@ https://forum.arduino.cc/t/lcd-screen-not-diplaying-anything/1056288
 ![image](https://github.com/luizmarcelolm/Alimentador_Peixe_V3/assets/109484017/5db336a5-19bf-4081-b04f-c2a562251e4a)
 
 # Opções do programa
-1- Atualizar data e hora manualmente pelos botões do alimentador, e mesmo que desligue da tomada a hora permanece atializada devido o dispositivo utilizar uma bateria no nódulo RTC.
+1- Atualizar a data e hora manualmente pelos botões do alimentador, e mesmo que desligue da tomada a hora permanece atualizada devido o dispositivo utilizar uma bateria no nódulo RTC.
 
 2- definir duas alimentações diárias.
 
