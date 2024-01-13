@@ -3,7 +3,7 @@ Nesse projeto, o intuito foi criar um dispositivo que alimente o peixe automatic
 Devido os peixes betta comerem uma ração muito pequena e em pouca quantidade, esse dispositivo possibilitou essa tarefa de forma simples.
 Por exemplo ajudando pessoas que viajam nos finais de semanas, garantindo que seu peixe receba a alimentação necessária na hora certa.
 
-Link de apoio onde consegui ajuda na criação da estrutura da caixa, componentes e código fonte.
+Link de apoio onde consegui ajuda na criação da estrutura da caixa, arquivos para impressão 3d, esquema elétrico, componentes e código fonte.
 
 https://www.youtube.com/watch?v=qaEer1_0UBc
 
