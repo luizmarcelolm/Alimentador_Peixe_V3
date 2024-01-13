@@ -1,5 +1,5 @@
 # Alimentador de peixe automático.
-Nesse projeto, o intuido foi criar um dispositivo que alimenta o peixe automarticamente duas vezes por dia.
+Nesse projeto, o intuito foi criar um dispositivo que alimenta o peixe automarticamente duas vezes por dia.
 Devido os peixes beta comerem uma ração muito pequena e em pouca quantidade, esse dispositivo possibilitou essa tarefa de forma simples, assim para pessoas que viajam nos fds iram garantir que seu peixe receba a alimentação necessária na hora certa.
 
 Link de apoio onde consegui ajuda na criação da estrutura da caixa, componentes e código fonte.
