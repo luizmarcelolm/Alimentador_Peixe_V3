@@ -15,6 +15,7 @@ https://forum.arduino.cc/t/lcd-screen-not-diplaying-anything/1056288
 
 # Opções do programa
 1- Atualizar data e hora manualmente pelos botões do alimentador, e mesmo que desligue da tomada a hora permanece atializada devido o dispositivo utilizar uma bateria no nódulo RTC.
+
 2- definir duas alimentações diárias.
 
 
